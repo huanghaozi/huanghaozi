@@ -4,7 +4,7 @@
 - Favoring 💻Coding
 - Blogging on (my website): 🖋[huanghaozi.cn](https://huanghaozi.cn)
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=huanghaozi)]()
+[![My Stats](https://github-readme-stats.vercel.app/api?username=huanghaozi&show_icons=true)](https://github.com/huanghaozi)
 
 - 🔭 I’m currently working on my **dissertations**
 - 🌱 I’m currently learning **NLP** and **CV**
