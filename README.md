@@ -1,13 +1,9 @@
 ### Hi there 👋  I'm HH, 20 years old
-> A 👨‍🎓 in HEU (Harbin Engineering University)
-
-> Majoring in 💰Finance 
-
-> Minoring in 🎞EE
-
-> Favoring 💻Coding
-
-> My Blog (Also Website): [huanghaozi.cn](https://huanghaozi.cn)
+- A 👨‍🎓 in HEU (Harbin Engineering University)
+- Majoring in 💰Finance 
+- Minoring in 🎞EE
+- Favoring 💻Coding
+- My Blog (Also Website): [huanghaozi.cn](https://huanghaozi.cn)
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=huanghaozi)]()
 
