@@ -2,7 +2,7 @@
 - Majoring in 💰Finance 
 - Minoring in 🎞EE
 - Favoring 💻Coding
-- My Blog (Also Website): [huanghaozi.cn](https://huanghaozi.cn)
+- Blogging on (my website): [huanghaozi.cn](https://huanghaozi.cn)
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=huanghaozi)]()
 
