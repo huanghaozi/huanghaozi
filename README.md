@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋  I'm HH, 20 years old
+> A 👨‍🎓 in HEU (Harbin Engineering University)
 
-<!--
-**huanghaozi/huanghaozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Majoring in 💰Finance 
 
-Here are some ideas to get you started:
+> Minoring in 🎞EE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Favoring 💻Coding
+
+> My Blog (Also Website): [huanghaozi.cn](https://huanghaozi.cn)
+
+[![My Stats](https://github-readme-stats.vercel.app/api?username=huanghaozi)]()
+
+- 🔭 I’m currently working on my dissertations
+- 🌱 I’m currently learning NLP and CV
+- 📫 How to reach me: (QQ)1158332489  (Wechat)hhz1158332489
+- 😄 Pronouns: huanghaozi, HHz
+
