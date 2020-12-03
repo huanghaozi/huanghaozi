@@ -1,4 +1,4 @@
-### Hi there 👋  I'm HH, A 20 years old 👨‍🎓 in HEU
+### Hi there 👋  I'm HH, a 20 years old 👨‍🎓 in HEU
 - Majoring in 💰Finance 
 - Minoring in 🎞EE
 - Favoring 💻Coding
