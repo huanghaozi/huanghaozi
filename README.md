@@ -1,5 +1,4 @@
-### Hi there 👋  I'm HH, 20 years old
-- A 👨‍🎓 in HEU (Harbin Engineering University)
+### Hi there 👋  I'm HH, A 20 years old 👨‍🎓 in HEU
 - Majoring in 💰Finance 
 - Minoring in 🎞EE
 - Favoring 💻Coding
