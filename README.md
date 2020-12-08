@@ -10,5 +10,5 @@
 - 🔭 I’m currently working on my **dissertations**
 - 🌱 I’m currently learning **NLP** and **CV**
 - 📫 How to reach me: (QQ)**1158332489**  (Wechat)**hhz1158332489**
-- 😄 Pronouns: **huanghaozi**, **HHz**, **耗子**, **ピカチュウ
+- 😄 Pronouns: **huanghaozi**, **HHz**, **耗子**, **ピカチュウ**
 
