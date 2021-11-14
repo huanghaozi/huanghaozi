@@ -1,6 +1,6 @@
-### Hi there 👋  I'm HH, a 21 years old 👨‍🎓 in HEU
-- Majoring in 💰Finance 
-- Minoring in 🎞EE
+### Hi there 👋  I'm HH, a coder in ZTE
+- Majored in 💰Finance 
+- Minored in 🎞EE
 - Favoring 💻Coding
 - Blogging on (my website): 🖋[huanghaozi.cn](https://huanghaozi.cn)
 
