@@ -3,7 +3,7 @@
 - Minored in 🎞EE
 - Favoring 💻Coding
 - Blogging on (my website): 🖋[huanghaozi.cn](https://huanghaozi.cn)
-- Working in an enterprise in the communications industry
+- Making a living at Shenzhen
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=huanghaozi&show_icons=true)](https://github.com/huanghaozi)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huanghaozi&layout=compact)](https://github.com/huanghaozi)
